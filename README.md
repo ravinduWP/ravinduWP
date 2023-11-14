@@ -16,11 +16,10 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravinduWP&style=flat-square&color=blue" alt="view count"/></img>
-  <h1>Hello,</h1>
+  <img src="https://komarev.com/ghpvc/?username=ravinduWP&style=flat-square&color=blue" alt="view count"/>
 </div>
+  <h1>hello</h1>
 <hr>
-
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="150"/>
 </div>
