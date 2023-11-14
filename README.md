@@ -67,6 +67,6 @@
 </div>
   <hr>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ravinduWP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduWP&layout=compact&theme=vision-friendly-dark" height="200" alt="Top Languages Badge" />
+  <img src="https://streak-stats.demolab.com?user=WarunaDisanayaka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarunaDisanayaka&layout=compact&theme=vision-friendly-dark" height="200" alt="Top Languages Badge" />
 </div>
