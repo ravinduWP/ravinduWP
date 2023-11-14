@@ -17,14 +17,13 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ravinduWP&style=flat-square&color=blue" alt="view count"/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 <hr>
-<div align="center">
-<h1>
-  Hello There 
-</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="150"/>
 </div>
