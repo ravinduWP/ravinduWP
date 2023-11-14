@@ -15,4 +15,6 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-[![GitHub Grade](https://github-readme-grade.vercel.app/api/grade?user=ravinduWP)](https://github.com/ravinduWP)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="view count"/>
+</div>
