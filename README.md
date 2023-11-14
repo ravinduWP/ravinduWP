@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ravinduWP&style=flat-square&color=blue" alt="view count"/>
   
-  hey there
+  <b>hey there</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 </div>
